@@ -1,0 +1,10 @@
+body{
+    background-image: url(../img/home-img-600x268\ -\ Copy.webp);
+    height: 2000px;
+    background-attachment: fixed;
+}   
+.test{
+height: 700px;
+background: greenyellow url(../img/00000.png) 50px 50px fixed no-repeat;
+background-size: 150px;
+}

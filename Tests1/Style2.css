@@ -1,0 +1,29 @@
+h1{
+   text-align: center;
+}
+
+
+
+.ourproducts{
+    text-align: center;    
+}
+
+.products{
+    background-color: palegoldenrod;
+    width: 33%;
+    display: inline-block;
+}
+
+.products img{
+    width: 100%;
+}
+
+.products button{
+    border: 2px teal solid;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.selector{
+    property:value;
+}

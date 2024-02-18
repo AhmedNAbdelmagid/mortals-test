@@ -1,0 +1,36 @@
+
+/* Selector{
+    property: value;
+    property: value
+}
+
+.
+
+label{
+    color: rgb(4, 95, 27);
+    background-color: rgb(173, 135, 222);
+} */
+
+.h1{
+    background-color: teal;
+    color: rgb(0, 0, 0);
+    height:200px;
+    border: 2px solid black;
+    }
+
+.style1{
+    background-color: teal;
+    color: rgb(0, 0, 0);
+    height:650px;
+    border: 2px solid black;
+}
+
+.style2{
+    background-color: cornflowerblue;
+    color: rgb(252, 252, 253);
+    width: 30%;
+    height: 600px;
+    font-weight: 200;
+    border: 2px solid black;
+    display: inline-block
+    }
